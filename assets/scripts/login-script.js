@@ -24,7 +24,7 @@ const inputPasswordElement = document.querySelector('#inputPassword');
 const expectedEmail = 'admin@dicoding.com';
 
 /**
-* Memmbuat variabel expectedPassword untuk menyimpan informasi password sementara
+* Membuat variabel expectedPassword untuk menyimpan informasi password sementara
 * @constant {string}
 */
 const expectedPassword = 'superpassword';
